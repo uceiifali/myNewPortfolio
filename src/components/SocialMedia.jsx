@@ -7,7 +7,7 @@ const SocialMedia = () => {
   return (
     <div className="app__social">
       <div>
-        <a href="" download="../assets/file/Youssef ali.pdf">
+        <a href="" download="../assets/file/UceiifAliResume.pdf">
           <HiDocumentAdd />
         </a>
       </div>
